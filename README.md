@@ -36,13 +36,13 @@ also define four slots as visible on the next image:
 
 The built robo advisor interacts as following:
 
-![snippet of our code](Recordings/video1.mov)
+https://user-images.githubusercontent.com/88042779/199732992-1013379f-b9f3-4579-af86-59a0f1f0bbb9.mov
 
 Second, build the Amazon Lambda function with the python code from lambda_function.py, also add events from the folder Test_Events.
 
 Finally, integrate the Amazon Lambda function into the robo advisor. The recorded video for the working bot is:
 
-![snippet of our code](Recordings/video2.mov)
+https://user-images.githubusercontent.com/88042779/199733057-189f7d37-37c1-4fa6-ad04-0f26ab6c3ec4.mov
 
 ---
 
